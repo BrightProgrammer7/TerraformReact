@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Deployed <code> React/App</code> on AWS with Terraform
+          Deployed<code>React/App</code>on AWS with Terraform
         </p>
         <a
           className="App-link"
-          href="https://www.terraform.io"
+          href="https://terraform.org"
           target="_blank"
           rel="noopener noreferrer"
         >
